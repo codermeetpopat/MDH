@@ -50,3 +50,8 @@ Step 6: Troubleshooting (If Needed)
 -The Error List (View → Error List).
 
 -If required dependencies (like .NET Framework or NuGet packages) are installed (Tools → NuGet Package Manager → Manage NuGet Packages).
+USER SIDE:
+HOME PAGE
+
+![screencapture-localhost-18822-Default-aspx-2025-03-19-19_29_19](https://github.com/user-attachments/assets/f3164d5a-8b07-479c-ae72-e5784739379b)
+
